@@ -1,16 +1,16 @@
-## Hi there 👋
+# Neuroscientist
 
-<!--
-**abbaszadehmj/abbaszadehmj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Research
+Value Memory & Attention
 
-Here are some ideas to get you started:
+### Education
+Cognitive Neuroscience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research Experince
+Postdoc fellow
+- Postdoc 1: Ghazizadeh lab
+- Postdoc 2: Ebitz lab
+
+### Research Projects
+- Value-based search task
+- Value-based memory guided saccades
