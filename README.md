@@ -4,7 +4,7 @@
 Value Memory & Attention
 
 ### Education
-Cognitive Neuroscience
+Cognitive Neuroscience, PhD
 
 ### Research Experince
 Postdoc fellow
